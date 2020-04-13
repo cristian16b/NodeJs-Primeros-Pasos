@@ -30,3 +30,4 @@ exports.sumar=sumar;
 exports.restar=restar;
 exports.dividir=dividir;
 exports.PI=PI; 
+exports.mostrarErrorDivision=mostrarErrorDivision;
